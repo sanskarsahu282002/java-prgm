@@ -1,6 +1,7 @@
 class calender {
 public static void main(String a[]){
 int n=5;
+//JHGUYGVUYVYV
 switch(n){
      case 1:
      System.out.println("monday");
